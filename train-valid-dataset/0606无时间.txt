@@ -1,0 +1,5 @@
+2019-08-30T00:00:00    
+2020-08-31T23:45:00    
+DHI	DNI	GHI	Dew Point	Solar Zenith Angle	Fill Flag	
+Surface Albedo	Wind Speed	Precipitable Water	Wind Direction	Relative Humidity	Temperature	KW
+
